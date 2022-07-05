@@ -2,7 +2,7 @@ PROJECT =led
 BUILD_DIR = bin
 
 CFILES = main.c
-CFILES += systick.c
+#CFILES += systick.c
 
 # TODO - you will need to edit these two lines!
 DEVICE=stm32l152re
